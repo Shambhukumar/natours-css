@@ -1,5 +1,6 @@
-MY FIRST SASs PROJECT BUILD THIS WHILE LEARNING SASS
+## Advanced CSS SASS
+**Made with Sass used all the Sass Technique clipath,animation,sibling selector etc.** 
 
-PLEASE VISIT = https://nators-sass.herokuapp.com/
+**Please Visit = https://nators-sass.herokuapp.com/ **
 
-THIS DESIGN IS ALSO RESPONSIVE 
+
